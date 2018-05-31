@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,USA || Telemundo 51
+http://198.255.114.218:8000/live/cesarsalinas/cesarsalinas/7722.ts
+#EXTINF:-1,USA || Telemundo 52
+http://198.255.114.218:8000/live/cesarsalinas/cesarsalinas/7711.ts
+#EXTINF:-1,USA || Telemundo Chicago
+http://198.255.114.218:8000/live/cesarsalinas/cesarsalinas/7635.ts
